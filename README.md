@@ -1,2 +1,2 @@
-# mining-pool
+# Mining-pool
 Ethash Mining Pool
